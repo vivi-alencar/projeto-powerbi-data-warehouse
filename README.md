@@ -36,7 +36,7 @@ O dashboard está organizado em quatro páginas principais:
 
 - **sales_analytics.pbix** → arquivo principal do Power BI  
 - **/screenshots/** → capturas de tela das páginas do dashboard
-- - **/documentacao/** → explicações complementares
+- **/documentacao/** → explicações complementares
   - `decisoes.md` → motivações por trás de escolhas de design e modelagem (ex.: exclusão de anos, categorias)  
   - `findings.md` → insights e descobertas do negócio a partir dos dados (evolução de produtos, ticket médio, etc.)  
 - **README.md** → este documento  
